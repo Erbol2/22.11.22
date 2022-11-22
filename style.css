@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+.container {
+  padding: 20px;
+  display: flex;
+}
+.box {
+  border-radius: 8px;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.179);
+  padding: 20px;
+  background-color: rgba(0, 0, 255, 0.714);
+  color: white;
+  margin: 15px;
+}
+.gray {
+  background-color: gray;
+  margin: 0;
+}
