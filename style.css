@@ -10,7 +10,7 @@
 }
 .box {
   border-radius: 8px;
-  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.179);
+  box-shadow:inset 3px 3px 20px rgba(0, 0, 0, 0.359);
   padding: 20px;
   background-color: rgba(0, 0, 255, 0.714);
   color: white;
