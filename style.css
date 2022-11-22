@@ -5,6 +5,9 @@
   padding: 20px;
   display: flex;
 }
+.sidebar {
+  flex: 0 0 160px;
+}
 .box {
   border-radius: 8px;
   box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.179);
@@ -13,6 +16,7 @@
   color: white;
   margin: 15px;
   margin-top: 0;
+  
 }
 .gray {
   background-color: gray;
@@ -20,4 +24,22 @@
 }
 .content {
   margin: 0;
+}
+.head {
+ margin-right: 35px;
+}
+.box nav li {
+  list-style-type: none;
+  padding: 11px;
+}
+.box nav ul {
+  padding: 0;
+}
+.box nav ul li a {
+text-decoration: none;
+padding-top: 20px;
+color: white;
+}
+.h1 {
+  margin-top: 0;
 }
